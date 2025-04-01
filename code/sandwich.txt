@@ -1,0 +1,11 @@
+estimate: 20 lines
+
+Reach two slices of bread. 
+Put the two slices of bread in the counter. 
+Reach peanut butter jar and open it. 
+Grab spoon and get peanut butter from the jar. 
+Grab one of bread slices and put peanut butter until all surface is covered. 
+If not sufficient peanut butter to cover all surface then go to jar again and fill spoon. 
+Grab the other bread slice and put peanut butter until all surface is covered. 
+If not sufficient peanut butter on spoon, repeat reaching the jar until all surface is covered. 
+Put the two slices of bread together. 
