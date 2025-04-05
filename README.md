@@ -6,6 +6,6 @@
      |______|_| \_|  |_|  |_|  \_\        |_| |____/ |_|
                                                  
 
-# Welcome to ENTR-451
+# Welcome to ENTR-451 -> Introduction to Software Development
 
 Hello World!
